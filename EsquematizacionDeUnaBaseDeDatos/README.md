@@ -191,4 +191,4 @@ Elegí la tabla `Hecho_Empleado` por varias razones:
 ## Creación del Esquema
 Para construir el esquema, utilicé Power Pivot en Excel y tomé una captura de pantalla para documentar el diseño.
 
-![Esquema](Imagenes\Captura3.PNG)
+![Esquema](Imagenes\Captura3.png)
